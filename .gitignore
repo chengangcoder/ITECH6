@@ -37,3 +37,7 @@ gen
 
 ### database
 db.sqlite3
+
+###cache
+/.idea/
+*/__pycache__
